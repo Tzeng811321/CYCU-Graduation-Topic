@@ -1,0 +1,107 @@
+{
+  "導管": {
+    "id": "chatcmpl-B9dsDz03Lp8JK7dVIntbDpccFuR2W",
+    "object": "chat.completion",
+    "created": 1741637925,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n    \"關鍵字\": \"導管\",\n    \"出現年度\": [107, 108, 109, 110, 111, 112],\n    \"相關產品\": [\n        \"腦室腹腔引流組接頭/L型\",\n        \"硬膜外麻醉針套 (含NEEDLE+CATHETER+FILTER+SYRINGE)\",\n        \"由內視鏡經鼻腔空腸餵食管NASAL JEJUNAL FEEDING TUBE(含導線、餵食管、鼻引導管、餵食管接頭）\",\n        \"PEGKIT胃造口術裝置組/首次使用(全套-PEGTUBE,SNARE,ADAPTER,RING,INTRODUCERNEEDLE,WIRE,CLAMP)\",\n        \"由X光透射經皮胃造廔導管Percutaneous Gastrostomy catheter(餵食管、矯直器通管針、接合器、連接管蓋)\",\n        \"顱內導入系統/傳送導管+選擇導管\",\n        \"可控式電極導管/20極/彎度可轉向/具心內除顫功能\",\n        \"環形可控式電極導管/20極/三尖瓣\",\n        \"PTCA BALLOON CATHETER(Over-the-wire)\",\n        \"真空傷口引流套(矽質)/套組(矽質引流管+矽質吸引球)\",\n        \"PTCD(組件)/引流導管\",\n        \"腦室腹腔引流系統-抗虹吸裝置\",\n        \"導入引流導管/附組件3WAY活塞接頭\",\n        \"ANGIO PACK心導管包(GWAA210X1+CGA1A11X1+NAN15A1X1+ACM013PX2+CEP01A1X4+CEP01B2X1)\",\n        \"下肢血管治療導管/導管球囊長度12公分(不含)以下\",\n        \"胸主動脈支架及輸送導引系統(使用1支)\",\n        \"多功能經鼻腔空腸餵食管(具空腸餵食管、胃液引流減壓管、壓力調節管)\",\n        \"體外引流管附套針(VENTRICULAR CATH+ TROCAR)\",\n        \"矽質加砃雙4型輸尿導管組/URETERAL STENT+GUIDE WIRE+PUSHER\",\n        \"腹腔溫熱灌注導管\",\n        \"電極導管/10極/彎度固定\",\n        \"插入式導管OTW LEAD配合心房同步雙心室節律器使用(適用於小血管彎曲血管且較易固定)\",\n        \"人工血液透析導管組/CAVH TUBING SET\",\n        \"人工血液透析導管組(小兒用)/CAVH TUBING SET\",\n        \"連續順流導管(雙腔)\",\n        \"THERMODILUTION CATHETER(順流導管)/四腔及五腔\",\n        \"UNDERENDOSCOPIC(整組)/膽道或胰管引流套組:含導入導引組+引流管組\",\n        \"腦室腹腔引流系統(固定壓力及重力閥門+腹腔導管+腦室導管+儲液槽)\"\n    ]\n}\n```",
+          "refusal": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 7573,
+      "completion_tokens": 812,
+      "total_tokens": 8385,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_f9f4fb6dbf"
+  },
+  "輸系統": {
+    "id": "chatcmpl-B9dsUqYxAeJ6IjjMmjI0uZeBCtQWt",
+    "object": "chat.completion",
+    "created": 1741637942,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n    \"關鍵字\": \"輸系統\",\n    \"出現年度\": [107, 108, 109, 110, 112],\n    \"相關產品\": [\n        \"腦室腹腔引流系統-抗虹吸裝置\",\n        \"胸主動脈支架及輸送導引系統(使用1支)\",\n        \"周邊動脈血管支架及傳輸裝置(球擴式覆膜支架，直徑12:16mm，遞送系統長80:120cm)\",\n        \"髂總動脈瘤人工血管支架及輸送導引系統-整組(側支主體*1+髂內動脈分支*1)\",\n        \"複合式胸主動脈支架及輸送導引系統(前端為4分支)\",\n        \"周邊動脈血管支架及傳輸裝置-含生物表面肝素塗層(自膨式支架含人工血管，支架長25:99mm)\",\n        \"腦室腹腔引流系統(固定壓力及重力閥門+腹腔導管+腦室導管+儲液槽)\"\n    ]\n}\n```",
+          "refusal": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 7574,
+      "completion_tokens": 296,
+      "total_tokens": 7870,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_f9f4fb6dbf"
+  },
+  "感應組": {
+    "id": "chatcmpl-B9dsb9fg8Xo7GVs0bDhhL4WPf1Lqm",
+    "object": "chat.completion",
+    "created": 1741637949,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n    \"關鍵字\": \"感應組\",\n    \"出現年度\": [107, 108, 109, 110, 111, 112],\n    \"相關產品\": [\n        \"腦室腹腔引流組接頭/L型\",\n        \"硬膜外麻醉針套 (含NEEDLE+CATHETER+FILTER+SYRINGE)\",\n        \"腦室腹腔分流術用/單貯水閥\",\n        \"腦室腰椎腹腔分流導管+CONNECTOR/體內\",\n        \"PEGKIT胃造口術裝置組/首次使用(全套-PEGTUBE,SNARE,ADAPTER,RING,INTRODUCERNEEDLE,WIRE,CLAMP)\",\n        \"胃造口術裝置組/餵食管接頭\",\n        \"胃造口術裝置組配件/Balloon型替換管\",\n        \"胃造口術裝置組配件/護理套組\",\n        \"由X光透射經皮胃造廔導管Percutaneous Gastrostomy catheter(餵食管、矯直器通管針、接合器、連接管蓋)\",\n        \"SHEATH(w/dilator)/長度>=60cm(具單一角度，配合電極導管使用)，sideport+valve\",\n        \"光學同調斷層掃描(OCT)影像系統-影像導管\",\n        \"顱內導入系統/傳送導管+選擇導管\",\n        \"可控式電極導管/20極/彎度可轉向/具心內除顫功能\",\n        \"環形可控式電極導管/20極/三尖瓣\",\n        \"Tibial Basic /SET\",\n        \"Tibial Double Lengthening /SET\",\n        \"Colles Forearm /SET\",\n        \"Half Pin - dia. 5mm/EA\",\n        \"CORTICAL、CANCELLOUS SCREW\",\n        \"雙極式或全人工髖關節髖臼杯+內襯(HIP CUP+INSERT)\",\n        \"PERFECTA REVISION HIP STEM(NECK+BODY+STEM)\",\n        \"TOTAL SHOULDER(STEM+HEAD+GLENOID)\",\n        \"TOTAL SHOULDER(STEM+HEAD)\",\n        \"TOTAL SHOULDER STEM\",\n        \"TOTAL SHOULDER HEAD\",\n        \"TOTAL　SHOULDER　GLENOID(METAL,PLASTIC)\",\n        \"CUSTOM MADE HUMERAL PROTHESIS(HEAD+BODY+STEM)\",\n        \"TITANIUM SPINAL HOOK(適用於兒童或體型嬌小者)\",\n        \"TITANIUM SPINAL SCREW\",\n        \"TITANIUM SPINAL SCREW(適用於兒童或體型嬌小者)\",\n        \"TITANIUM SPINAL CROSSLINK(適用於兒童或體型嬌小者)\",\n        \"頸椎後側固定系統-枕骨骨釘\",\n        \"TITANIUM CERVICAL SCREW/ANY SIZE(免事前審查)\",\n        \"頸椎後側固定系統-多軸頸椎骨釘\",\n        \"TITANIUM ANTERIOR CERVICAL SCREW\",\n        \"TITANIUM CERVICAL IMPLANT(二節)(SCREWX4+RODX2或PLATEX1)\",\n        \"TITANIUM CERVICAL SYSTEM(三節)(SCREWX6+RODX2或PLATEX1)\",\n        \"TITANIUM CERVICAL PLATE/ANY SIZE(免事前審查)\",\n        \"單腔心律調節器/SSIR(含VVIR,AAIR)，有Auto-capture及核磁共振相容功能\",\n        \"代用人工腦膜/生物性/2.5CM*7.5CM\",\n        \"代用人工腦膜/生物性/5CM*5CM\",\n        \"代用人工腦膜/生物性/4CM*7CM\",\n        \"代用人工腦膜/生物性/6CM*8CM\",\n        \"代用人工腦膜/生物性/7.5CM*7.5CM\",\n        \"代用人工腦膜/生物性/7CM*10CM\",\n        \"代用人工腦膜/生物性/8CM*14CM\",\n        \"代用人工腦膜/生物性/10CM*12.5CM\",\n        \"代用人工腦膜/生物性/10CM*14CM OR 7CM*20CM\",\n        \"代用人工腦膜/生物性/10CM*16CM\",\n        \"代用人工腦膜/化學材料 /2CM*10CM OR 4CM*5CM\",\n        \"代用人工腦膜/化學材料 /4CM*10CM\",\n        \"代用人工腦膜/化學材料 /6CM*8CM\",\n        \"代用人工腦膜/化學材料 /6CM*14CM\",\n        \"代用人工腦膜/化學材料 /12CM*14CM\",\n        \"人工網膜/不可吸收性/<=99平方公分\",\n        \"人工網膜/不可吸收性/100-199平方公分\",\n        \"人工網膜/不可吸收性/800-899平方公分\",\n        \"人工網膜/不可吸收性/900-1000平方公分\",\n        \"經內視鏡輸尿管粘膜下植體注射針\",\n        \"經內視鏡輸尿管粘膜下植體\",\n        \"安全型靜脈留置針具逆止閥\",\n        \"骨髓抽吸切片針\",\n        \"骨髓切片/抽吸切片針\",\n        \"自動軟組織切片針\",\n        \"手動軟組織切片針\",\n        \"鈦金屬釘匣(胸腹縫合器用)/30MM,釘腿3.5MM\",\n        \"鈦金屬釘匣(腸胃縫合器用)/55MM\",\n        \"血管夾HEMO CLIP(TITANIUM),S TYPE,單發\",\n        \"血管夾HEMO CILP(TITANIUM),M TYPE,單發\",\n        \"血管夾HEMO CLIP(TITANIUM),M-L TYPE,單發\",\n        \"血管夾HEMO CLIP(TITANIUM),L TYPE,單發\",\n        \"自動血管夾AUTOMATIC CLIP(TITANIUM),M SIZE,槍帶夾\"\n    ]\n}\n```",
+          "refusal": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 7574,
+      "completion_tokens": 1525,
+      "total_tokens": 9099,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_f9f4fb6dbf"
+  }
+}

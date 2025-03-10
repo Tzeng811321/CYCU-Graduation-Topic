@@ -1,0 +1,107 @@
+{
+  "纖維": {
+    "id": "chatcmpl-B9DnWuauDGclva1veSVDeKOZmKDNr",
+    "object": "chat.completion",
+    "created": 1741537690,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n    \"關鍵字\": \"纖維\",\n    \"出現年度\": [108, 110],\n    \"相關產品\": [\n        \"樹脂石膏繃帶/玻璃纖維/2吋x4y\",\n        \"樹脂石膏繃帶/玻璃纖維/3吋x4y\",\n        \"樹脂石膏繃帶/玻璃纖維/4吋x4y\",\n        \"樹脂石膏繃帶/玻璃纖維/5吋x4y\",\n        \"第二代單腔型植入式去纖維顫動器-同時具3.0T核磁共振相容，ATP(Anti-Tachycardiapacing)及Capture-management及減少不恰當電擊辨識功能\",\n        \"雙腔型植入式去纖維顫動器-同時具3.0T核磁共振相容，ATP(Anti-Tachycardiapacing)及心房自動電擊功能及減少不恰當電擊辨識功能\"\n    ]\n}\n```",
+          "refusal": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 7576,
+      "completion_tokens": 261,
+      "total_tokens": 7837,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_eb9dce56a8"
+  },
+  "支架": {
+    "id": "chatcmpl-B9DndlRJxpDp4LRQ76OcwblubkBZS",
+    "object": "chat.completion",
+    "created": 1741537697,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n    \"關鍵字\": \"支架\",\n    \"出現年度\": [109, 110],\n    \"相關產品\": [\n        \"胸主動脈支架及輸送導引系統(使用1支)\",\n        \"周邊動脈血管支架及傳輸裝置(球擴式覆膜支架，直徑12:16mm，遞送系統長80:120cm)\",\n        \"髂總動脈瘤人工血管支架及輸送導引系統-整組(側支主體*1+髂內動脈分支*1)\",\n        \"複合式胸主動脈支架及輸送導引系統(前端為4分支)\",\n        \"周邊動脈血管支架及傳輸裝置-含生物表面肝素塗層(自膨式支架含人工血管，支架長25:99mm)\",\n        \"周邊動脈血管支架及傳輸裝置-含生物表面肝素塗層(自膨式支架含人工血管，支架長100:149mm)\",\n        \"周邊動脈血管支架及傳輸裝置-含生物表面肝素塗層(自膨式支架含人工血管，支架長150mm以上)\"\n    ]\n}\n```",
+          "refusal": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 7575,
+      "completion_tokens": 325,
+      "total_tokens": 7900,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_eb9dce56a8"
+  },
+  "塗藥": {
+    "id": "chatcmpl-B9Dnjp6UnbkxDoU419kKB8dU3W8FW",
+    "object": "chat.completion",
+    "created": 1741537703,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n    \"關鍵字\": \"塗藥\",\n    \"出現年度\": [109, 110],\n    \"相關產品\": [\n        \"周邊動脈血管支架及傳輸裝置-含生物表面肝素塗層(自膨式支架含人工血管，支架長25:99mm)\",\n        \"周邊動脈血管支架及傳輸裝置-含生物表面肝素塗層(自膨式支架含人工血管，支架長100:149mm)\",\n        \"周邊動脈血管支架及傳輸裝置-含生物表面肝素塗層(自膨式支架含人工血管，支架長150mm以上)\",\n        \"Thermodilution Cath(四腔及五腔)/with AMC THROMBOSHIELD(防血栓抗菌性肝素塗層)或Heparin Coating\"\n    ]\n}\n```",
+          "refusal": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 7577,
+      "completion_tokens": 234,
+      "total_tokens": 7811,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_eb9dce56a8"
+  }
+}

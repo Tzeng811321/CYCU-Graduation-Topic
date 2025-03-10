@@ -1,0 +1,72 @@
+{
+  "接頭": {
+    "id": "chatcmpl-B9Di8BieDKAAPCmib51GCpbACy0jZ",
+    "object": "chat.completion",
+    "created": 1741537356,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n    \"關鍵字\": \"接頭\",\n    \"出現年度\": [107, 108, 111],\n    \"相關產品\": [\n        \"多路連接頭/2-PORTS\",\n        \"多路連接頭/3-PORTS\",\n        \"腦室腹腔引流組接頭/L型\",\n        \"輸液連接管/低壓(<=300PSI)/ANY SIZE/管端接T型二路接頭\",\n        \"無針式接頭/EA\",\n        \"無針式接頭+延長管/EA\",\n        \"無針式接頭(2-4路)+延長管/EA\",\n        \"無針式接頭/不含DEHP+與脂質相容\",\n        \"無針式接頭+延長管(含T型Y型)/不含DEHP+與脂質相容\",\n        \"導入引流導管/附組件3WAY活塞接頭\",\n        \"高壓(>=800PSI)附M-F接頭連接管/PVC\",\n        \"PTCA氣球導管或導引管用接頭/單Y型\",\n        \"PTCA氣球導管或導引管用接頭/雙Y型\",\n        \"三路活塞接頭\",\n        \"三路活塞連接頭/附LEUK，2-PORTS\",\n        \"腦室腹腔引流組接頭/Y型\"\n    ]\n}\n```",
+          "refusal": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 7575,
+      "completion_tokens": 333,
+      "total_tokens": 7908,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_eb9dce56a8"
+  },
+  "水泥": {
+    "id": "chatcmpl-B9DiHWiCDBsWUXZRPNCMiz7f4la5g",
+    "object": "chat.completion",
+    "created": 1741537365,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n    \"關鍵字\": \"水泥\",\n    \"出現年度\": [108, 109],\n    \"相關產品\": [\n        \"石膏繃帶/3X3Y(2080CM2)\",\n        \"石膏繃帶/4X5Y(4622CM2)\",\n        \"石膏繃帶/6X5Y(6934CM2)\",\n        \"樹脂石膏繃帶/玻璃纖維/2吋x4y\",\n        \"樹脂石膏繃帶/玻璃纖維/3吋x4y\",\n        \"樹脂石膏繃帶/玻璃纖維/4吋x4y\",\n        \"樹脂石膏繃帶/玻璃纖維/5吋x4y\",\n        \"CRANIOPLASTY(POWDER30G+LIQUID16.17G/20分鐘)頭顱整形泥\"\n    ]\n}\n```",
+          "refusal": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 7575,
+      "completion_tokens": 227,
+      "total_tokens": 7802,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_eb9dce56a8"
+  }
+}
