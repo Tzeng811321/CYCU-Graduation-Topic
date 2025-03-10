@@ -2,6 +2,7 @@
 Use openAI api to find similar Medical Equipment
 
 #========HOW TO USE===============
+
 假設你已經安裝好 Conda（或 Anaconda/Miniconda）。
 如果你還沒有安裝 Conda，請先[安裝 Miniconda 或 Anaconda](https://docs.conda.io/en/latest/miniconda.html)
 再進行以下步驟。
